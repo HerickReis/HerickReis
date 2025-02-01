@@ -55,9 +55,11 @@ Concluí o Ensino médio em 2022 e atualmente estou cursando Analise e desenvolv
     title="SQLAlchemy"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" 
+/>
 
-
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
