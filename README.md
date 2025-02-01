@@ -70,14 +70,14 @@ Concluí o Ensino médio em 2022 e atualmente estou cursando Analise e desenvolv
     <td>
       <img 
         alt="GitHub Stats" 
-        height="150" 
+        height="200" 
         src="https://github-readme-stats.vercel.app/api?username=HerickReis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
       />
     </td>
     <td>
       <img 
         alt="GitHub Stats" 
-        height="150" 
+        height="200" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerickReis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
       />
     </td>
