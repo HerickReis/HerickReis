@@ -61,6 +61,8 @@ Concluí o Ensino médio em 2022 e atualmente estou cursando Analise e desenvolv
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <div style="display: flex; align-items: center; gap: 10px;">
