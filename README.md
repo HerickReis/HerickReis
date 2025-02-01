@@ -77,3 +77,4 @@ Concluí o Ensino médio em 2022 e atualmente estou cursando Analise e desenvolv
   />
 </div>
 
+---
