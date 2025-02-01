@@ -65,18 +65,23 @@ Concluí o Ensino médio em 2022 e atualmente estou cursando Analise e desenvolv
 
 ### 📊 Estatísticas
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img 
-    alt="GitHub Stats" 
-    height="120" 
-    src="https://github-readme-stats.vercel.app/api?username=HerickReis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    alt="GitHub Stats" 
-    height="120" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerickReis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="150" 
+        src="https://github-readme-stats.vercel.app/api?username=HerickReis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="150" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerickReis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
 
 ---
