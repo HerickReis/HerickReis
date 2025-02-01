@@ -36,11 +36,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/HerickReis/HerickReis/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/9iqeqs"  />
-</div>
-
-###
