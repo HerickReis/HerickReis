@@ -4,13 +4,6 @@
 
 <p align="left">Olá visitante👋 me chamo Herick e sou um estudante iniciante em programação, me surpreendo com as diversas possibilidades que a tecnologia nos apresenta.<br><br>Concluí o Ensino médio em 2022 e atualmente estou cursando Analise e desenvolvimento de sistemas na FIAP.</p>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HerickReis/count.svg?"  />
-</div>
-
-###
 
 <h3 align="left">🦾 Minhas habilidades</h3>
 
