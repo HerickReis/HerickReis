@@ -1,7 +1,7 @@
 <h2 align="left">Seja bem-vindo 👋</h2>
 
 <p align="left">
-Olá! Me chamo <strong>Herick</strong> — estudante de Análise e Desenvolvimento de Sistemas e entusiasta de tecnologia, com interesse em desenvolvimento back-end e em compreender como sistemas funcionam na prática.<br><br>
+Olá! Me chamo <strong>Herick</strong>! estudante de Análise e Desenvolvimento de Sistemas e entusiasta de tecnologia, com interesse em desenvolvimento back-end e em compreender como sistemas funcionam na prática.<br><br>
 
 Atualmente estou cursando ADS e construindo minha base em programação, banco de dados e boas práticas de desenvolvimento. Tenho experiência com Python, Java e SQL, e busco aplicar esses conhecimentos em projetos que reforcem lógica, organização de código e resolução de problemas.<br><br>
 </p>
